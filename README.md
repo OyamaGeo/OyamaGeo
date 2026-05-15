@@ -1,6 +1,6 @@
 # Hi, I'm George Oyama👋
 
-## ☁️ AWS Solutions Architect | DevOps Enthusiast | Cloud Engineer
+##  AWS Solutions Architect | DevOps Enthusiast | Cloud Engineer
 
 I am a certified AWS Solutions Architect passionate about designing scalable, secure, and cost effective cloud solutions. I enjoy building real-world cloud and DevOps projects that solve practical problems.
 
