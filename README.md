@@ -1,4 +1,4 @@
-# Hi, I'm George 👋
+# Hi, I'm George Oyama👋
 
 ## ☁️ AWS Solutions Architect | DevOps Enthusiast | Cloud Engineer
 
