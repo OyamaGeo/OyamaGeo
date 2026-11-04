@@ -2,7 +2,7 @@
 
 ##  AWS Solutions Architect | DevOps Enthusiast | Cloud Engineer
 
-I am a certified AWS Solutions Architect passionate about designing scalable, secure, and cost effective cloud solutions. I enjoy building real-world cloud and DevOps projects that solve practical problems.
+I am a certified AWS Solutions Architect passionate about designing scalable, secure, and cost effective cloud solutions. I enjoy building cloud and DevOps projects that solve practical problems.
 
 ---
 
@@ -25,8 +25,8 @@ I am a certified AWS Solutions Architect passionate about designing scalable, se
 
 ###  Tools & Platforms
 
-* Git & GitHub
-* Docker (if applicable)
+* Git, GitHub, GitHub Codspaces
+* Docker
 * Linux fundamentals
 
 ---
@@ -49,10 +49,10 @@ I am a certified AWS Solutions Architect passionate about designing scalable, se
 ---
 
 ##  Contact Me
-
+* Website: https://dz4l9g31rxi1e.cloudfront.net
 * LinkedIn: https://www.linkedin.com/in/george-oyama
 * Email: [Oyamageo@gmail.com](mailto:Oyamageo@gmail.com)
 
 ---
 
- *Passionate about building cloud solutions that are scalable, secure, and real-world ready.*
+ *Passionate about building cloud solutions that are scalable & secure.*
