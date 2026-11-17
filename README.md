@@ -33,11 +33,12 @@ I am a certified AWS Solutions Architect passionate about designing scalable, se
 
 ## Featured Projects
 
+🔹Building a Web Application on AWS
 🔹AWS CV/Portfolio website on cloudfront
-🔹 Serverless Contact Form (AWS Lambda + API Gateway + DynamoDB + SNS)
-🔹 Cloud Infrastructure Automation with CloudFormation
-🔹 CI/CD Pipeline for Automated Deployment
-🔹 REST API with Serverless Architecture
+🔹Serverless Contact Form (AWS Lambda + API Gateway + DynamoDB + SNS)
+🔹Cloud Infrastructure Automation with CloudFormation
+🔹CI/CD Pipeline for Automated Deployment
+🔹REST API with Serverless Architecture
 
 ---
 
